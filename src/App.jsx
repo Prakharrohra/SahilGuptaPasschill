@@ -1,5 +1,6 @@
+import Navbar from "./components/Navbar/Navbar"
 import "./layout.scss"
-import Navbar from "./components/Navbar/Navbar.jsx"
+import Homepage from "./pages/homepage"
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <Navbar />
       </div>
       <div className="content">
-        <homepage/>
+        <Homepage/>
       </div>
     </div>
   )

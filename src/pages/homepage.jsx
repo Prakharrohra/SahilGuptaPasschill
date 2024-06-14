@@ -1,6 +1,6 @@
 import "./homepage.scss"
 
-function App() {
+function Homepage() {
   return (
     <div className='homepage'>
        <div className="textcontainer">
@@ -26,14 +26,13 @@ function App() {
                     <h2>Property Ready</h2>
                 </div>
             </div>
-
         </div>
        </div>
-       <div className="imagecontainer">
+       <div className="imgcontainer">
         <img src="/pic1.jpeg" alt="" />
         </div> 
     </div>
   )
 }
 
-export default homepage
+export default Homepage
