@@ -1,4 +1,5 @@
 import "./homepage.scss"
+import SearchBar from "../components/Searchbar/Searchbar.jsx";
 
 function Homepage() {
   return (
@@ -11,7 +12,7 @@ function Homepage() {
             <p>
                 description dalna hai yha 
             </p>
-            <searchbar/>
+            <SearchBar/>
             <div className="boxes">
                 <div className="box">
                     <h1>11+</h1>
