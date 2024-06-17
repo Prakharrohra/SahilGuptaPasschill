@@ -28,7 +28,11 @@ function App() {
         {
           path:"/:id",
           element:<SinglePage/>
-        }
+        },
+        {
+          path:"/profile",
+          element:<ProfilePage/>
+        },
       ]
         
     }
