@@ -34,9 +34,8 @@
 
 Team Name: BRACKETS
 
-* [Sambhav Jain](https://github.com/samjain233)
-* [Aman Singh](https://github.com/amansingh0811)
-* [Arpita Shrivastava](https://github.com/Arpita2025)
+* [Sahil Gupta](https://github.com/Sahilguptaaa)
+* [Prakhar Rohra](https://github.com/Prakharrohra)
 
 
 ### Made at:
